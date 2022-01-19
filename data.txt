@@ -1,0 +1,8 @@
+link for data: https://drive.google.com/file/d/1mjgx7K0jXa2N8Z3NVxvJoBMhofFWBChB/view?usp=sharing
+
+couldn't fit in github
+
+its compressed in targz btw so use the command for extraction
+
+
+tar -xf trainingdata.tar.gz
